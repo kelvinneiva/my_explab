@@ -1,4 +1,4 @@
-// Hello Worl Program in C
+// Hello World Program in C
 
 #include <stdio.h>
 
